@@ -1,0 +1,16 @@
+{
+    "status": "OK",
+    "data": {
+        "Model": {
+            "id": "1",
+            "name": "name_of_model_hogehoge",
+            "age": 223,
+            "flag1": false
+        },
+		"OtherModel": {
+			"id": "1",
+			"name": "name_of_other_model_hogehoge"
+		}
+    }
+}
+
